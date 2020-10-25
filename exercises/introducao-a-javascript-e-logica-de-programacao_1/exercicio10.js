@@ -8,4 +8,3 @@ if (valorCusto > 0 | valorVenda > 0) {
 } else {
     console.log("erro");
 }
-
