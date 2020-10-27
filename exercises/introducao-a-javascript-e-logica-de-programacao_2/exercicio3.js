@@ -7,4 +7,4 @@ for (index = 0; index < numbers.length; index += 1) {
     media = soma / numbers.length;
 }
 
-console.log(media); 
+console.log(media);
