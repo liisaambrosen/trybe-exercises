@@ -25,9 +25,6 @@ function createDaysOfTheWeek() {
     diaItem.innerHTML = days;
 
     diasNovDez.appendChild(diaItem);
-
-    if (dezDaysList[index] = 24 || dezDaysList[index] = 25 || dezDaysList[index] = 31) {
-        diaItem.className = "holiday";
-    }
   }
 
+.//
